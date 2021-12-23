@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifullah619
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning NLP , AI and Parallel/Distributed Computing
+- 🌱 I’m currently learning NLP , Deep Learning and Blockchain.
 - 💞️ I’m looking to collaborate on projects from which I can gain experience
 - 📫 How to reach me saifullahdar619@gmail.com
 
