@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullah619&label=Profile%20views&color=0e75b6&style=flat" alt="saifullah619" /> </p>
 
-- 🔭 I’m currently working on **SOT**
+- 🔭 I’m currently working on **Backend Development of DeFi and fintech based Applications in one of the market leading organization.**
 
-- 👯 I’m looking to collaborate on **open-source golang projects.**
+- 🌱 I’m currently learning **full stack development using Blockchain Technologies.**
+
+- 👯 I’m looking to collaborate on **open-source golang projects and blockchain projects.**
+
+- 💬 Ask me about **Golang, NodeJs and Python**
 
 - 📫 How to reach me **saifullahdar619@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saif-dar/](https://www.linkedin.com/in/saif-dar/)
+
+- ⚡ Fun fact **I am very curious thus I do not bound myself with any particular tech stack, I love to try-out new tools and frameworks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
