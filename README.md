@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullah619&label=Profile%20views&color=0e75b6&style=flat" alt="saifullah619" /> </p>
 
-- 🔭 I’m currently working on **Backend Development of DeFi and fintech based Applications in one of the market leading organization.**
+- 🔭 I have worked on **Backend Development of DeFi and fintech based Applications.**
 
-- 🌱 I’m currently learning **full stack development using Blockchain Technologies.**
+- 🌱 I’m currently working as a **Full stack developer.**
 
 - 👯 I’m looking to collaborate on **open-source golang projects and blockchain projects.**
 
