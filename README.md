@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source golang projects and blockchain projects.**
 
-- 💬 Ask me about **Golang, NodeJs and Python**
+- 💬 Ask me about **Golang, NodeJs, Vue and Python**
 
 - 📫 How to reach me **saifullahdar619@gmail.com**
 
